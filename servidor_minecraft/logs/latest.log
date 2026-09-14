@@ -1,0 +1,131 @@
+[14Sep2026 05:07:54.676] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_server, nogui]
+[14Sep2026 05:07:54.678] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Ubuntu OpenJDK 64-Bit Server VM 25.0.4+7-1-24.04-Ubuntu
+[14Sep2026 05:07:54.680] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.6 starting: java version 25.0.4 by Ubuntu; OS Linux arch amd64 version 6.8.0-1064-azure
+[14Sep2026 05:07:54.798] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_server
+[14Sep2026 05:07:54.964] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///workspaces/mirswatf44-gmail.com/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.7/mixin-0.8.7.jar!/ Service=ModLauncher Env=SERVER
+[14Sep2026 05:07:55.328] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[14Sep2026 05:07:55.567] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_server' with arguments [nogui]
+[14Sep2026 05:08:02.352] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 65.1.3, for MC 26.2 with MCP 20260616.103818
+[14Sep2026 05:08:02.354] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v65.1.3 Initialized
+[14Sep2026 05:08:02.387] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
+[14Sep2026 05:08:02.952] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[14Sep2026 05:08:03.664] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: AHEAD Current: 65.1.3 Target: null
+[14Sep2026 05:08:04.172] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[14Sep2026 05:08:07.404] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 1585 recipes
+[14Sep2026 05:08:07.437] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1688 advancements
+[14Sep2026 05:08:07.662] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 26.2
+[14Sep2026 05:08:07.663] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[14Sep2026 05:08:07.663] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[14Sep2026 05:08:07.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[14Sep2026 05:08:07.910] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[14Sep2026 05:08:08.175] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[14Sep2026 05:08:08.681] [Server thread/INFO] [net.minecraft.server.level.progress.LoggingLevelLoadListener/]: Loading 0 persistent chunks...
+[14Sep2026 05:08:08.682] [Server thread/INFO] [net.minecraft.server.level.progress.LoggingLevelLoadListener/]: Preparing spawn area: 100%
+[14Sep2026 05:08:08.695] [Server thread/INFO] [net.minecraft.server.level.progress.LoggingLevelLoadListener/]: Time elapsed: 18 ms
+[14Sep2026 05:08:08.696] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (0.542s)! For help, type "help"
+[14Sep2026 05:08:08.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[MUNDO DISLEXICO]'/minecraft:overworld
+[14Sep2026 05:08:08.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[MUNDO DISLEXICO]'/minecraft:the_end
+[14Sep2026 05:08:08.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[MUNDO DISLEXICO]'/minecraft:the_nether
+[14Sep2026 05:08:08.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14Sep2026 05:08:08.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14Sep2026 05:08:08.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14Sep2026 05:08:08.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[14Sep2026 05:08:09.062] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[14Sep2026 05:08:11.588] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player MirsWATF is b5193e04-289f-4676-8ef7-f3111c8cc1e6
+[14Sep2026 05:08:15.237] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MirsWATF[/127.119.112.13:37599] logged in with entity id 45 at (84.33202504324646, -12.0, 241.60956195698452)
+[14Sep2026 05:08:15.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MirsWATF joined the game
+[14Sep2026 05:08:18.106] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Bokuakatsuki is b5a2ac5e-69ff-4333-a540-9f46c95f6e98
+[14Sep2026 05:08:18.614] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player teemoelsamu is d1418274-fbb6-4a7d-be69-45904935106e
+[14Sep2026 05:08:22.945] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: teemoelsamu[/127.50.10.107:47833] logged in with entity id 278 at (261.69605764830726, 66.0, 197.30000001192093)
+[14Sep2026 05:08:22.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: teemoelsamu joined the game
+[14Sep2026 05:08:23.240] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Bokuakatsuki[/127.50.10.107:55835] logged in with entity id 304 at (85.30541563576163, -12.0, 243.9386150706782)
+[14Sep2026 05:08:23.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bokuakatsuki joined the game
+[14Sep2026 05:08:23.790] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Cow['Cow'/339, l='ServerLevel[MUNDO DISLEXICO]', x=369.62, y=72.00, z=23.52]
+[14Sep2026 05:08:32.787] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Miikari_UwU is 291c1a0c-bd77-44e1-a786-e724ee0a4b4a
+[14Sep2026 05:08:35.490] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Miikari_UwU[/127.16.133.31:54275] logged in with entity id 373 at (84.59413099979078, -12.0, 239.494984628179)
+[14Sep2026 05:08:35.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Miikari_UwU joined the game
+[14Sep2026 05:12:05.672] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player cqrazan is 710e3b65-b96c-4dc2-ba10-034c00fc9a40
+[14Sep2026 05:12:08.930] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: cqrazan[/127.199.118.245:53089] logged in with entity id 1054 at (170.00699388499754, 62.0, 188.07151366428985)
+[14Sep2026 05:12:08.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cqrazan joined the game
+[14Sep2026 05:18:19.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MirsWATF has made the advancement [Ice Bucket Challenge]
+[14Sep2026 05:22:30.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command. See below for error
+[14Sep2026 05:22:30.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dsadsadasda<--[HERE]
+[14Sep2026 05:30:20.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MirsWATF has made the advancement [We Need to Go Deeper]
+[14Sep2026 05:30:22.208] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2888ms or 57 ticks behind
+[14Sep2026 05:30:22.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Miikari_UwU has made the advancement [We Need to Go Deeper]
+[14Sep2026 05:30:27.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bokuakatsuki has made the advancement [We Need to Go Deeper]
+[14Sep2026 05:39:46.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command. See below for error
+[14Sep2026 05:39:46.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DSADASDSADAS<--[HERE]
+[14Sep2026 05:46:16.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MirsWATF tried to swim in lava
+[14Sep2026 05:46:25.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bokuakatsuki tried to swim in lava
+[14Sep2026 05:51:52.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MirsWATF> z
+[14Sep2026 05:51:55.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <cqrazan> zz
+[14Sep2026 05:51:55.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Miikari_UwU> duermannnnnnn xd
+[14Sep2026 05:52:01.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MirsWATF> MIAIUUUUUUUUUUUUUUUUUUU
+[14Sep2026 05:52:02.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bokuakatsuki> zzzzzz
+[14Sep2026 06:08:04.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command. See below for error
+[14Sep2026 06:08:04.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DSADSADAS<--[HERE]
+[14Sep2026 06:08:38.108] [Server thread/ERROR] [net.minecraft.world.level.block.entity.BlockEntity/]: Failed to create block entity net.minecraft.world.level.block.entity.BlockEntityType@5b71ccf2 for block BlockPos{x=301, y=7, z=507} at position Block{minecraft:cobweb} 
+java.lang.IllegalStateException: Invalid block entity minecraft:mob_spawner // net.minecraft.world.level.block.entity.SpawnerBlockEntity state at BlockPos{x=301, y=7, z=507}, got Block{minecraft:cobweb}
+	at TRANSFORMER/minecraft@26.2/net.minecraft.world.level.block.entity.BlockEntity.validateBlockState(BlockEntity.java:61) ~[forge-26.2-65.1.3-server.jar!/:?]
+	at TRANSFORMER/minecraft@26.2/net.minecraft.world.level.block.entity.BlockEntity.<init>(BlockEntity.java:54) ~[forge-26.2-65.1.3-server.jar!/:?]
+	at TRANSFORMER/minecraft@26.2/net.minecraft.world.level.block.entity.SpawnerBlockEntity.<init>(SpawnerBlockEntity.java:45) ~[forge-26.2-65.1.3-server.jar!/:?]
+	at TRANSFORMER/minecraft@26.2/net.minecraft.world.level.block.entity.BlockEntityType.create(BlockEntityType.java:25) ~[forge-26.2-65.1.3-server.jar!/:?]
+	at TRANSFORMER/minecraft@26.2/net.minecraft.world.level.block.entity.BlockEntity.loadStatic(BlockEntity.java:180) ~[forge-26.2-65.1.3-server.jar!/:?]
+	at TRANSFORMER/minecraft@26.2/net.minecraft.world.level.chunk.storage.SerializableChunkData.lambda$postLoadChunk$0(SerializableChunkData.java:531) ~[forge-26.2-65.1.3-server.jar!/:?]
+	at TRANSFORMER/minecraft@26.2/net.minecraft.world.level.chunk.LevelChunk.runPostLoad(LevelChunk.java:520) ~[forge-26.2-65.1.3-server.jar!/:?]
+	at TRANSFORMER/minecraft@26.2/net.minecraft.world.level.chunk.status.ChunkStatusTasks.lambda$full$0(ChunkStatusTasks.java:202) ~[forge-26.2-65.1.3-server.jar!/:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1789) ~[?:?]
+	at TRANSFORMER/minecraft@26.2/net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:173) ~[forge-26.2-65.1.3-server.jar!/:?]
+	at TRANSFORMER/minecraft@26.2/net.minecraft.server.level.ServerChunkCache$MainThreadExecutor.doRunTask(ServerChunkCache.java:629) ~[forge-26.2-65.1.3-server.jar!/:?]
+	at TRANSFORMER/minecraft@26.2/net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:147) ~[forge-26.2-65.1.3-server.jar!/:?]
+	at TRANSFORMER/minecraft@26.2/net.minecraft.server.level.ServerChunkCache$MainThreadExecutor.pollTask(ServerChunkCache.java:639) ~[forge-26.2-65.1.3-server.jar!/:?]
+	at TRANSFORMER/minecraft@26.2/net.minecraft.server.level.ServerChunkCache.pollTask(ServerChunkCache.java:284) ~[forge-26.2-65.1.3-server.jar!/:?]
+	at TRANSFORMER/minecraft@26.2/net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:916) [forge-26.2-65.1.3-server.jar!/:?]
+	at TRANSFORMER/minecraft@26.2/net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:904) [forge-26.2-65.1.3-server.jar!/:?]
+	at TRANSFORMER/minecraft@26.2/net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:156) ~[forge-26.2-65.1.3-server.jar!/:?]
+	at TRANSFORMER/minecraft@26.2/net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:877) [forge-26.2-65.1.3-server.jar!/:?]
+	at TRANSFORMER/minecraft@26.2/net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:775) [forge-26.2-65.1.3-server.jar!/:?]
+	at TRANSFORMER/minecraft@26.2/net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:299) [forge-26.2-65.1.3-server.jar!/:?]
+	at java.base/java.lang.Thread.run(Thread.java:1474) [?:?]
+[14Sep2026 06:09:35.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bokuakatsuki> zzzzzz
+[14Sep2026 06:19:23.376] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: cqrazan lost connection: Disconnected
+[14Sep2026 06:19:23.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cqrazan left the game
+[14Sep2026 06:20:32.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command. See below for error
+[14Sep2026 06:20:32.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DSADSADSA<--[HERE]
+[14Sep2026 06:22:26.124] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MirsWATF lost connection: Disconnected
+[14Sep2026 06:22:26.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MirsWATF left the game
+[14Sep2026 06:22:43.537] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player MirsWATF is b5193e04-289f-4676-8ef7-f3111c8cc1e6
+[14Sep2026 06:22:46.443] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MirsWATF[/127.119.112.13:55465] logged in with entity id 18240 at (90.48722805466406, -9.0, 244.53398522349312)
+[14Sep2026 06:22:46.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MirsWATF joined the game
+[14Sep2026 06:42:43.174] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: teemoelsamu lost connection: Disconnected
+[14Sep2026 06:42:43.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: teemoelsamu left the game
+[14Sep2026 06:44:38.974] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MirsWATF lost connection: Disconnected
+[14Sep2026 06:44:38.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MirsWATF left the game
+[14Sep2026 06:44:52.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[14Sep2026 06:44:52.993] [Server console handler/ERROR] [net.minecraft.server.dedicated.DedicatedServer/]: Caught previously unhandled exception :
+com.sun.jna.LastErrorException: [5] Input/output error
+	at SECURE-BOOTSTRAP/com.sun.jna@5.17.0/com.sun.jna.Native.invokeVoid(Native Method) ~[jna-5.17.0.jar!/:5.17.0 (b0)]
+	at SECURE-BOOTSTRAP/com.sun.jna@5.17.0/com.sun.jna.Function.invoke(Function.java:418) ~[jna-5.17.0.jar!/:5.17.0 (b0)]
+	at SECURE-BOOTSTRAP/com.sun.jna@5.17.0/com.sun.jna.Function.invoke(Function.java:364) ~[jna-5.17.0.jar!/:5.17.0 (b0)]
+	at SECURE-BOOTSTRAP/com.sun.jna@5.17.0/com.sun.jna.Library$Handler.invoke(Library.java:270) ~[jna-5.17.0.jar!/:5.17.0 (b0)]
+	at SECURE-BOOTSTRAP/jdk.proxy2/jdk.proxy2.$Proxy18.tcgetattr(Unknown Source) ~[?:?]
+	at SECURE-BOOTSTRAP/org.jline.terminal.jna@3.25.1/org.jline.terminal.impl.jna.linux.LinuxNativePty.doSetAttr(LinuxNativePty.java:105) ~[jline-terminal-jna-3.25.1.jar!/:?]
+	at SECURE-BOOTSTRAP/org.jline.terminal@3.25.1/org.jline.terminal.impl.AbstractPty.setAttr(AbstractPty.java:48) ~[jline-terminal-3.25.1.jar!/:?]
+	at SECURE-BOOTSTRAP/org.jline.terminal@3.25.1/org.jline.terminal.impl.AbstractPosixTerminal.setAttributes(AbstractPosixTerminal.java:55) ~[jline-terminal-3.25.1.jar!/:?]
+	at SECURE-BOOTSTRAP/org.jline.reader@3.25.1/org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:774) ~[jline-reader-3.25.1.jar!/:?]
+	at SECURE-BOOTSTRAP/org.jline.reader@3.25.1/org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:512) ~[jline-reader-3.25.1.jar!/:?]
+	at TRANSFORMER/net.minecraftforge.forge@65.1.3/net.minecraftforge.server.console.TerminalHandler.handleCommands(TerminalHandler.java:46) ~[forge-26.2-65.1.3-universal.jar!/:?]
+	at TRANSFORMER/minecraft@26.2/net.minecraft.server.dedicated.DedicatedServer$1.run(DedicatedServer.java:171) ~[forge-26.2-65.1.3-server.jar!/:?]
+[14Sep2026 06:44:53.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[14Sep2026 06:44:53.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[14Sep2026 06:44:53.039] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Miikari_UwU lost connection: Server closed
+[14Sep2026 06:44:53.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Miikari_UwU left the game
+[14Sep2026 06:44:53.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[14Sep2026 06:44:53.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[MUNDO DISLEXICO]'/minecraft:overworld
+[14Sep2026 06:44:53.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[MUNDO DISLEXICO]'/minecraft:the_end
+[14Sep2026 06:44:53.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[MUNDO DISLEXICO]'/minecraft:the_nether
+[14Sep2026 06:44:53.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14Sep2026 06:44:53.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14Sep2026 06:44:53.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14Sep2026 06:44:53.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
